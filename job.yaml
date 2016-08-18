@@ -14,7 +14,7 @@
           url: https://github.com/devops-basservice/locanda.git
           branches:
             - master
-          git-config-name: Kishore Ramanan JJB
+          git-config-name: Kishore Ramanan JJBush
           git-config-email: kishorramanan@gmail.com
           extensions:
             per-build-tag: true
@@ -46,4 +46,4 @@
            use-redis: false
 
 - docker_image:
-    name: devopsbasservice/basejenkins_maven_git_javas
+    name: devopsbasservice/basejenkins_maven_git_java
