@@ -5,7 +5,7 @@
     description: 'Build and Deploy of Locanda via JJB'
     block-downstream: false
     concurrent: true
-    node: master
+    node: master 
     properties:
        - github:
           url: https://github.com/devops-basservice/locanda.git
